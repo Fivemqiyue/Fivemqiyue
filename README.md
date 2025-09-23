@@ -21,10 +21,7 @@
 
 如果你有项目需求或技术交流，欢迎联系我！
 
-
-[![联系我](https://img.shields.io/badge/📧-联系我-00B4FF?style=for-the-badge&logo=mail.ru&logoColor=white)](你的链接地址)
-[![QQ](https://img.shields.io/badge/💬-QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](你的QQ链接)
-[![微信](https://img.shields.io/badge/💚-微信-07C160?style=for-the-badge&logo=wechat&logoColor=white)](你的微信链接)
+[![QQ](https://img.shields.io/badge/💬-QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/R9Ub5zJpei)
 ---
 
 *专注于游戏开发与技术解决方案* 🎮
