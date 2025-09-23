@@ -1,16 +1,26 @@
-## Hi there 👋
+# 你好，我是七月！👋
 
-<!--
-**Fivemqiyue/Fivemqiyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+## 🛠️ 我的项目专长
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **FiveM 开发** - 定制化服务器脚本与资源
+- **Minecraft 插件** - 功能定制与优化  
+- **Rust 项目** - 游戏相关开发
+- **插件编写** - 各类游戏插件开发
+- **项目维护** - 破解、修改、修复等技术支持
+
+## 💼 服务项目
+
+我承接各种游戏相关的技术项目，包括但不限于：
+
+✨ **插件开发** | ✨ **功能定制** | ✨ **问题修复**  
+✨ **性能优化** | ✨ **代码破译** | ✨ **项目修改**
+
+## 📫 联系合作
+
+如果你有项目需求或技术交流，欢迎联系我！
+
+---
+
+*专注于游戏开发与技术解决方案* 🎮
